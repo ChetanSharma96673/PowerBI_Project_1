@@ -32,17 +32,27 @@ An executive dashboard for real-time performance monitoring. Shows revenue by by
 **#Key Business Metrics**
 
 Net sales
+
 Net Invoice Sales
+
 Net Profit and Net Profit %
+
 Gross Margin and Gross Margin %
+
 Pre invoice deductions and Post invoice deductions
+
 COGS(cost of goods sold)
+
 Targets
+
 Forecast Accuracy
+
 Net Error
+
 Absolute Error
-Variance
+
 YTG (year to go)
+
 YTD ( year to date)
 
 #Contributions to this project are welcome! Whether it's enhancing existing analyses, adding new features, or improving documentation, feel free to fork the repository, make your changes, and submit a pull request.
